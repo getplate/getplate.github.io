@@ -1,0 +1,32 @@
+body {
+	padding: 20px;
+	background-color: #f6f5f0;
+}
+
+.mother {
+	font-size: 2em;
+	letter-spacing: 2px;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, 'Muli', sans-serif;
+	line-height: 120%;
+	color: #4d4641;
+}
+
+.father {
+	color: #d1c1b4;
+}
+
+.loving {
+	font-size: 3em;
+	letter-spacing: 2px;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, 'Muli', sans-serif;
+	line-height: 120%;
+	font-weight: bold;
+	color: #4d4641;
+}
+
+.deals {
+	background-color: #d1c1b4;
+	color: white;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, 'Muli', sans-serif;
+	font-weight: bold;
+}
