@@ -3,7 +3,7 @@ var hoursText = document.getElementById("hours");
 var minutesText = document.getElementById("minutes");
 var secondsText = document.getElementById("seconds");
 
-var targetDate = new Date(2015, 01, 23);
+var targetDate = new Date(2015, 02, 02);
 
 function updateText() {
   var timespan = countdown(targetDate);
